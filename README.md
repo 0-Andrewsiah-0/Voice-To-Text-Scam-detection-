@@ -17,3 +17,6 @@ If the call is classified as a scam:
 - Preventive Action:
   - Notify the user in real-time about the suspicious call.
   - Collaborate with the user’s bank to put transactions on hold temporarily.
+
+## Key Word for Scam and Not Scam message
+![image](https://github.com/user-attachments/assets/640a8d6b-2195-470f-84e1-e2731a4cd3b6)
